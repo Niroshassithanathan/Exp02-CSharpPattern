@@ -45,6 +45,7 @@ public class Pattern
 ```
 
 ## Output:
-![ ](./C:\Users\ADMIN\cex2\a2.png)
+![''](a2.png)
+
 ## Result:
 Hence, a C# program for a pascal's triangle is executed successfully.
